@@ -19,4 +19,4 @@ npm start
 
 This is a static file server so no extra execution is performed, files in the `public` directory are hosted at `localhost:3333`.
 
-for example a file located in `<PATH_TO_REPO>/public/path/to/file.exe` is hosted at `localhost:3333/path/to/file.ext`
+for example a file located in `<PATH_TO_REPO>/public/path/to/file.ext` is hosted at `localhost:3333/path/to/file.ext`
